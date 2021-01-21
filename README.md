@@ -4,6 +4,10 @@ Repositório do Grupo 13 para projeto da disciplina ITS304 - Contratação de En
 # Integrante do Grupo
   Cassio Afonso Caetano Rodrigues.
   
+# VIDEO DO PROJETO
+
+https://youtu.be/4hbAZTmq4sU
+  
 # APRESENTAÇÃO DO OBJETO DE ESTUDO
 
 A Universidade Federal do Rio Grande do Sul (UFRGS), ao longo dos anos tem mantido seu consumo de energia elétrica estável, apresentando aumento em algumas instalações e redução em outras. De acordo com o plano de desenvolvimento institucional, publicado em 2016, o aumento do consumo deve-se, principalmente, à expansão da instituição e do crescimento vegetativo natural da universidade. Apesar disso, a universidade adota políticas internas de redução de consumo de energia a fim de auxiliar no controle do consumo de energia elétrica nos prédios que compõem a universidade.
